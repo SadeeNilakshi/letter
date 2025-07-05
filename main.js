@@ -2,6 +2,11 @@
 const timeline = [
    
   {
+    title: "🥳 La-Partenza New Year Party",
+    description: "First day we saw each other & next day was the most speacial day.",
+    image: "assets/party1.jpg"
+  },
+  {
     title: "🍰 First Meet",
     description: "Nervous smiles, sweet laughs — like a dream.",
     image: "assets/first.jpg"
@@ -12,8 +17,37 @@ const timeline = [
     image: "assets/home.jpg"
   },
   {
+    title: "💻 Java Coding Exam",
+    description: "We nailed it baby. U were the one who put me on the track.",
+    image: "assets/coding_exm.jpg"
+  },
+  {
+    title: "🌼 Went to Kubalwela Monestary",
+    description: "We enjoyed walking & working togethe.r",
+    image: "assets/asapuwa.jpg"
+  },
+   {
+    title: "🍃 Industrial Visit - Haputale Tea Estate",
+    description: "We enjoyed and gathered details for our research.",
+    image: "assets/tea.jpg"
+  },
+{
+    title: "💃 Veloura Christmas Party",
+    description: "Enoyed , Laughed and Danced together.",
+    image: "assets/veloura.jpg"
+  },
+   {
+    title: "📸 Visited Adhisam Bungalow",
+    description: "Bungalow was closed but we collected memories.",
+    image: "assets/adhisam.jpg"
+  }, {
+    title: "😝 Crazy Times at Uni",
+    description: "It's always crazy when we are together.",
+    image: "assets/crazy.jpg"
+  },
+  {
     title: "💌 First Date Out",
-    description: "An unforgettable day and the best out date ever.",
+    description: "An unforgettable day and the best out date ever. Elio 3D Movie",
     image: "assets/out.jpg"
   },
   {
